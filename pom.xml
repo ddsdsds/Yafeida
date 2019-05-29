@@ -186,5 +186,6 @@
                 </includes>
             </resource>
         </resources>
+        <defaultGoal>compile</defaultGoal>
     </build>
 </project>
